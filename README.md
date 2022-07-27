@@ -3,6 +3,8 @@ Por favor leia atentamente antes de continuar.
 
 Realize o teste abaixo, nele é permitido e sugerido que vocẽ utilize bibliotecas e ferramentas que você acredite que podem te beneficiar para escrita de um código organizado e que se encaixe com a solução desejada.
 
+Recomenda-se o uso do framework Laravel e a construção de uma arquitetura REST.
+
 O que será avaliado:
 - Organização e estrutura de pastas;
 - Tratamento de erros;
