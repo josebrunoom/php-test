@@ -10,6 +10,7 @@ O que será avaliado:
 - Tratamento de erros;
 - Definições de entidades;
 - Resolução do problema;
+- Documentação da solução;
 
 # Tarefa:
 
